@@ -1,0 +1,8 @@
+[package]
+name = "bcp47mrm-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for bcp47mrm.dll. Windows only."
+license = "MIT"
+
+[dependencies]
